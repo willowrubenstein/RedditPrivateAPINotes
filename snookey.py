@@ -1,3 +1,5 @@
+# Get the user's subscriber count (follower count) from endpoint [https://www.reddit.com/user/<user>/about.json] using the payload from get_token in a request session
+
 import requests
 import re
 from pathlib import Path
